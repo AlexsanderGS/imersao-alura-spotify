@@ -19,8 +19,16 @@ Este projeto é uma reprodução da página principal do Spotify, desenvolvido c
 - JavaScript: Funcionalidades dinâmicas
 
 ## Capturas de Tela
-
+- ### Tela inicial
 ![image](https://github.com/user-attachments/assets/7a505ff8-b388-4446-aed5-69face8d4d92)
+
+- ### Realizando uma pesquisa por letra
+![image](https://github.com/user-attachments/assets/c1701852-f6f4-4c80-b59e-9dc5ae123ec8)
+
+- ### Realizando uma pesquisa por nome
+ ![image](https://github.com/user-attachments/assets/6d29187a-0820-4448-8fd7-7361a79c2786)
+
+
 
 ## Aprendizados
 
